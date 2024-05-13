@@ -1,4 +1,4 @@
-<h1>Validador de senha segura 💻</h1>
+<h1>🔐Validador de senha segura</h1>
 
 <h2>💻 Technologies</h2>
 
@@ -21,7 +21,9 @@ git clone https://github.com/Jeff-bt/securepassword.git
 
 <h3>Start</h3>
 
-Start your project in your IDE and test in the Swagger, acess  url: 
+Start your project in your IDE and test in the Swagger, access the url: 
 
-´http://localhost:8080/swagger-ui/index.html#/Password/password´
+```bash 
+http://localhost:8080/swagger-ui/index.html#/Password/password
+```
 
