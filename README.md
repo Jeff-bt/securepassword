@@ -7,7 +7,7 @@
 - Spring boot
 - Intellij
 
-<h2>Starting</h2>
+<h2>🚀 Starting</h2>
 
 <h3>Prerequisites</h3>
 
